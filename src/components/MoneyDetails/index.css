@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.money-details-bg-container {
+  margin-top: 36px;
+}
+
+.your-balance-container {
+  height: 100px;
+  width: 200px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wallet-image {
+  height: 50px;
+  width: 50px;
+}
+
+.balance-content-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+}
+
+.your-balance-tag {
+  font-family: Roboto;
+  margin-bottom: 0px;
+  color: #7e858e;
+}
+
+.your-balance-amount {
+  font-family: Roboto;
+  color: #334155;
+  margin-top: 10px;
+}
+
+.your-balance-style {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+
+.your-income-style {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.your-expense-style {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
